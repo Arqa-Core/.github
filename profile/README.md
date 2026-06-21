@@ -90,8 +90,7 @@ Everything follows a dark, moody PS3 XMB-inspired aesthetic:
 
 This palette is used across the boot screen, launcher, wallpapers — everything. When contributing, please keep the visuals consistent.
 
-![Design Palette Example](https://via.placeholder.com/800x200/05030c/8a54ff?text=Arqa+Color+Palette)  
-*(You can host a simple palette image or use a public CC0 retro UI mockup)*
+
 
 ## Getting Started
 
